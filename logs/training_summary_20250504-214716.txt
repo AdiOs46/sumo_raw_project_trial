@@ -1,0 +1,29 @@
+===== MULTI-AGENT REINFORCEMENT LEARNING TRAINING SUMMARY =====
+
+Training completed at: 2025-05-04 21:47:16
+Number of agents: 3
+Total training steps: 0
+
+Per-Agent Performance:
+-----------------------
+Agent 0:
+  Episodes completed: 0
+  Average reward: 761.09
+  Total lane changes: 0
+  Total collisions: 0
+  Training time: 30.7m
+
+Agent 1:
+  Episodes completed: 0
+  Average reward: 801.04
+  Total lane changes: 0
+  Total collisions: 0
+  Training time: 30.7m
+
+Agent 2:
+  Episodes completed: 0
+  Average reward: 794.77
+  Total lane changes: 0
+  Total collisions: 0
+  Training time: 30.7m
+
